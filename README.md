@@ -1,5 +1,5 @@
 ## 🪽 About Me:
-I'm currently working on a monster energy review website using JS, HTML, and CSS<br>I am currently an undergrad student taking data structures and algorithms<br>Some of my hobbies include: video games, gundam, and theatre!<br>Thanks for browing through my page<3<br>
+I'm currently working on a monster energy review website using JS, HTML, and CSS<br>I am currently an undergrad student taking data structures and algorithms<br>Some of my hobbies include: video games, gundam, and art!<br>Thanks for browing through my page<3<br>
 
 
 ## 🪽 Socials:
